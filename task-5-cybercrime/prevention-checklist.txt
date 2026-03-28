@@ -1,0 +1,22 @@
+'Stay Safe Online' Checklist for Indian College Students
+
+[ ] Different passwords: Use different passwords for your bank/university and other platforms. 
+
+[ ] App-Level Locks: Enable fingerprint or Face ID locks specifically for WhatsApp, Instagram, and UPI apps.
+
+[ ] Revoke Permissions: Regularly delete third-party app access from your .edu.in or Google account.
+
+[ ] Verify Identity: Call professors or friends directly if they send "urgent" money or data requests.
+
+[ ] Avoid Modded Apps: Never download "Pro" or "Cracked" APKs from Telegram; they often contain spyware.
+
+[ ] The 'PIN' Rule (UPI): Never enter your UPI PIN to receive money. PINs are only for sending.
+
+[ ] Set Limits (UPI): Lower your daily UPI transaction limit in your bank app to cap potential losses.
+
+[ ] Data over Wi-Fi: Use mobile data instead of free campus/café Wi-Fi for banking or student portals.
+
+If you or a friend have been cheated or harassed online, act within the "Golden Hour" (the first 60 minutes) to increase the chances of freezing stolen funds.
+National Helpline: Dial 1930 immediately to report financial fraud.
+Online Portal: Visit [suspicious link removed] to file a formal complaint.
+Preserve Evidence: Do not delete the chat, email, or transaction ID. Take screenshots with the URL bar visible.
